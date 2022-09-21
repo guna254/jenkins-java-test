@@ -1,5 +1,5 @@
 @Library('jenkins-demo')_
 
-welcome{
+dockerpush{
     name = "prakash"
 }
